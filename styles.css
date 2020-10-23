@@ -1,0 +1,20 @@
+.btn:hover {
+    background-color: #4197e7;
+    color: white;
+    border: #4197e7;
+}
+
+.h3{
+    color: #3691e6;
+    align-items: center;
+}
+
+.fab{
+    position: fixed;
+    bottom:10px;
+    right:50%;
+    height: 50;
+    width: 50;
+    background-color: #7716ff;
+    border-color: #7716ff;
+}
